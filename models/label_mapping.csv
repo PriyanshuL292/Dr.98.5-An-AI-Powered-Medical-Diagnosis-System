@@ -1,0 +1,37 @@
+Disease,Encoded
+Alzheimer’s Disease,0
+Anemia,1
+Appendicitis,2
+Arthritis,3
+Asthma,4
+Bronchitis,5
+COVID-19,6
+Chickenpox,7
+Chronic Bronchitis,8
+Common Cold,9
+Dengue,10
+Diabetes Type 2,11
+Dysentery,12
+Epilepsy,13
+Food Poisoning,14
+Gallstones,15
+Gastroenteritis,16
+Gout,17
+HIV/AIDS,18
+Heart Attack,19
+Hepatitis B,20
+Hypertension,21
+Influenza,22
+Kidney Failure,23
+Liver Cirrhosis,24
+Malaria,25
+Measles,26
+Meningitis,27
+Migraine,28
+Multiple Sclerosis,29
+Pancreatitis,30
+Parkinson’s Disease,31
+Pneumonia,32
+Stroke,33
+Tuberculosis,34
+Typhoid Fever,35
