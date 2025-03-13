@@ -25,11 +25,13 @@ protobuf==5.29.3
 psycopg2==2.9.10
 pyarrow==19.0.1
 pydeck==0.9.1
+pygments==2.19.1
 pyperclip==1.9.0
 python-dateutil==2.9.0.post0
 pytz==2025.1
 referencing==0.36.2
 requests==2.32.3
+rich==13.9.4
 rpds-py==0.23.1
 scikit-learn==1.6.1
 scipy==1.15.2
@@ -45,5 +47,5 @@ tzdata==2025.1
 urllib3==2.3.0
 watchdog==6.0.0
 xlrd==2.0.1
-rich==13.9.4
-pygments==2.19.1
+
+
